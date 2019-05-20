@@ -87,7 +87,7 @@
 <node TEXT="history" POSITION="right" ID="ID_1210960557" CREATED="1557688303341" MODIFIED="1557688308409">
 <edge COLOR="#00ff00"/>
 <node TEXT="first appeared 1976" ID="ID_1879288075" CREATED="1557688309569" MODIFIED="1557688317589"/>
-<node ID="ID_1293554671" CREATED="1557688458046" MODIFIED="1557688461417"><richcontent TYPE="NODE">
+<node ID="ID_1293554671" CREATED="1557688458046" MODIFIED="1558385649786"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -99,6 +99,7 @@
     </p>
   </body>
 </html>
+
 </richcontent>
 <node TEXT="by &#x2009;Stuart Feldman, The Art of Unix Programming, Eric S. Raymond 2003" ID="ID_878092060" CREATED="1557688479177" MODIFIED="1557688481568"/>
 </node>
@@ -177,10 +178,16 @@
 <node TEXT="make as a build tool for frontend" ID="ID_1371734139" CREATED="1558382678890" MODIFIED="1558382687718">
 <node TEXT="https://eprev.org/2017/02/20/make-as-a-front-end-development-build-tool/" ID="ID_932826643" CREATED="1558382688767" MODIFIED="1558382688767" LINK="https://eprev.org/2017/02/20/make-as-a-front-end-development-build-tool/"/>
 </node>
+<node TEXT="Make - The forgotten Build Tool" ID="ID_1597268817" CREATED="1558387986677" MODIFIED="1558387997059">
+<node TEXT="https://vimeo.com/96425320" ID="ID_1912828061" CREATED="1558388853937" MODIFIED="1558388854971"/>
+<node TEXT="http://slides.jcoglan.com/make-scotjs#1" ID="ID_1482182685" CREATED="1558388001701" MODIFIED="1558388002813"/>
+</node>
 </node>
 <node TEXT="Splitter" POSITION="left" ID="ID_517359952" CREATED="1557691061566" MODIFIED="1557691065135">
 <edge COLOR="#007c7c"/>
 <node TEXT="Stefans encryption Bsp." ID="ID_940424869" CREATED="1557691066051" MODIFIED="1557691074624"/>
+<node TEXT="different concepts of Maven, npm and co" ID="ID_910707969" CREATED="1558388790147" MODIFIED="1558388803139"/>
+<node TEXT="show (dependency) tree" ID="ID_1030384713" CREATED="1558388819269" MODIFIED="1558388828360"/>
 </node>
 <node TEXT="downside" POSITION="left" ID="ID_16125470" CREATED="1557690728366" MODIFIED="1557690731232">
 <edge COLOR="#007c00"/>
