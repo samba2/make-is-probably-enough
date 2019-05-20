@@ -1,0 +1,12 @@
+100	Make
+1	SunMake
+1	Remake
+1	gmake
+1	nmake
+1	dmake
+1	pmake
+1	bmake
+1	fmake
+1	Mk
+--------------------CloudConfig v2.4.2--------------------
+{"seed":944,"ZM_shape":{"char":"f26b","top":3,"weightFactor":-21},"ZM_autoWeight":true,"ZM_curShape":"fa-internet-explorer","ZM_curTheme":"t21","ZM_userWeightAdjust":-30,"ZM_userGridSizeAdjust":0,"ZM_canvasWidth":1024,"ZM_canvasHeight":768,"ZM_googleFont":null,"ZM_colorMode":"custom","ZM_gradientColors":[],"CO_shape":"circle","CO_backgroundColor":"#262626","CO_colorArray":["#468966","#fff0a5","#ffb03b","#b64926","#8e2800"],"CO_drawMask":false,"CO_maskColor":"rgba(142,40,0,0.2)","CO_fontFamily":"'Squada One'","CO_wordDirection":"random","CO_inverted":false}

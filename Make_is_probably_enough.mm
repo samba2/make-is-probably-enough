@@ -99,7 +99,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="by &#x2009;Stuart Feldman, The Art of Unix Programming, Eric S. Raymond 2003" ID="ID_878092060" CREATED="1557688479177" MODIFIED="1557688481568"/>
 </node>
@@ -169,12 +168,14 @@
     <a href="http://www.conifersystems.com/whitepapers/gnu-make/">http://www.conifersystems.com/whitepapers/gnu-make/</a>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
 <node TEXT="check 21st century c book" ID="ID_562213672" CREATED="1557691576169" MODIFIED="1557691588270">
 <node TEXT="https://learning.oreilly.com/library/view/21st-century-c/9781491904428/ch01.html#basicmake" ID="ID_445645944" CREATED="1557692239429" MODIFIED="1557692240728"/>
+</node>
+<node TEXT="make as a build tool for frontend" ID="ID_1371734139" CREATED="1558382678890" MODIFIED="1558382687718">
+<node TEXT="https://eprev.org/2017/02/20/make-as-a-front-end-development-build-tool/" ID="ID_932826643" CREATED="1558382688767" MODIFIED="1558382688767" LINK="https://eprev.org/2017/02/20/make-as-a-front-end-development-build-tool/"/>
 </node>
 </node>
 <node TEXT="Splitter" POSITION="left" ID="ID_517359952" CREATED="1557691061566" MODIFIED="1557691065135">
